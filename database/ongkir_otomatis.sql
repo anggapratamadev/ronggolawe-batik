@@ -1,3 +1,0 @@
--- V12: ongkir otomatis berdasarkan kota/kabupaten Jawa Timur.
--- Tidak memerlukan kolom berat produk.
--- Jika kolom berat_gram dari versi sebelumnya sudah ada, kolom tersebut boleh dibiarkan dan tidak lagi dipakai.
