@@ -21,3 +21,7 @@ Thumbs.db
 
 # Local uploads
 uploads/
+
+# Local payment proofs
+images/payments/*
+!images/payments/.gitkeep
